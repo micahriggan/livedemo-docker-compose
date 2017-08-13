@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "name": "live-docker-compose",
+  "version": "1.0.0",
+  "description": "An example docker-compose project",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "micah riggan",
+  "license": "ISC"
+}
